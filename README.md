@@ -81,10 +81,10 @@ I’m a **DevOps Architect** with a Computer Science background and a passion fo
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:dkollapaneni@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" style="margin:0 15px;" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/dheerajkollapaneni">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin:0 15px;" />
   </a>
 </p>
